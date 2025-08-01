@@ -84,7 +84,7 @@
 
   <script>
     // URL ของ Google Apps Script Web App ที่ deploy แล้ว (แก้ไขใส่ URL ของคุณ)
-    const API_URL = "https://script.google.com/macros/s/xxxxxxxxxxxxxxxxxxxx/exec";
+    const API_URL = "https://script.google.com/macros/s/AKfycbykd-sZ-2fJaHWoJJsLg6YB1ou8yOo4lbACK75C4w5tO4PMBhhp5XYz8E6W-OxSEtJ3/exec";
 
     async function fetchProducts() {
       try {
